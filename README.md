@@ -1,6 +1,4 @@
-# contributions
-
-Contributions to publications:
+# Contributions to publications
 
 - Implemented data analysis (GLMM implementation on a BACI design) and data visualization (prepared figures) for the article: 
 *Pardini, E.A., Parsons, L.S., Ştefan, V. and Knight, T.M., 2018. GLMM BACI environmental impact analysis shows coastal dune restoration reduces seed predation on an endangered plant. Restoration Ecology.*; [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.12678). 
