@@ -1,6 +1,6 @@
 # Contributions to publications
 
-- Implemented data analysis (GLMM implementation on a BACI design) and data visualization (prepared figures) for the article: 
+- Implemented data analysis (Generalized Linear Mixed Model, GLMM, implementation on a Before-After-Control-Impact, BACI, design) and data visualization (prepared figures) for the article: 
 _Pardini, E.A., Parsons, L.S., **Ştefan, V.** and Knight, T.M., 2018. GLMM BACI environmental impact analysis shows coastal dune restoration reduces seed predation on an endangered plant. Restoration Ecology._; [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.12678). 
 **GitHub repository with the R scripts** [here](https://github.com/idiv-biodiversity/BACI_GLMM)
 
