@@ -2,15 +2,19 @@
 
 - Implemented data analysis (Generalized Linear Mixed Model, GLMM, implementation on a Before-After-Control-Impact, BACI, design) and data visualization (prepared figures) for the article: 
 Pardini, E.A., Parsons, L.S., **Ştefan, V.** and Knight, T.M., 2018. *GLMM BACI environmental impact analysis shows coastal dune restoration reduces seed predation on an endangered plant.* Restoration Ecology.; [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.12678). 
-**GitHub repository** [here](https://github.com/idiv-biodiversity/BACI_GLMM)
+**Mentaining GitHub repository** [here](https://github.com/idiv-biodiversity/BACI_GLMM).
 
 - Contributed to developing the text processing and data visualization scripts for: 
 Knight, T.M., Ashman, T.L., Bennett, J.M., Burns, J.H., Passonneau, S. and Steets, J.A., 2018. *Reflections on, and visions for, the changing field of pollination ecology.* Ecology letters.; [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13094). 
-**GitHub repository** [here](https://github.com/idiv-biodiversity/reflections_pollination_ecology)
+**Mentaining GitHub repository** [here](https://github.com/idiv-biodiversity/reflections_pollination_ecology).
 
 - Spatial data processing and figures for:
 Joanne M Bennett, Amibeth Thompson, Irina Goia, Reinart Feldmann, **Valentin Ştefan**, Ana Bogdan, Demetra Rakosy, Mirela Beloiu, Inge-Beatrice Biro, Simon Bluemel, Milena Filip, Anna-Maria Madaj, Alina Martin, Sarah Passonneau, Denisa Paula Kalisch, Gwydion Scherer, Tiffany M Knight; *A review of European studies on pollination networks and pollen limitation, and a case study designed to fill in a gap*, AoB PLANTS, ply068, [link](https://doi.org/10.1093/aobpla/ply068).
-**GitHub repository** [here](https://github.com/idiv-biodiversity/plant-pollinator-romania)
+**Mentaining GitHub repository** [here](https://github.com/idiv-biodiversity/plant-pollinator-romania).
+
+- Data processing and visualization for:
+Bennett, J.M., Steets, J.A., Durka, W., Burns, J.H., Vamosi, J.C., Arceo-Gómez, G., Burd, M., Burkle, L.A., Ellis, A.G., Freitas, L., Li, J. and Rodger, J.G., 2018. *GloPL, a global data base on pollen limitation of plant reproduction.* Scientific data, 5, p.180249; [link](https://www.nature.com/articles/sdata2018249).
+**Mentaining GitHub repository** [here](https://github.com/idiv-biodiversity/pollen-limitation-data-descriptor).
 
 - Contributed to data analysis and figures for: 
 Crandall, R.M. and Knight, T.M., 2018. *Role of multiple invasion mechanisms and their interaction in regulating the population dynamics of an exotic tree.* Journal of Applied Ecology, 55(2), pp.885-894.; [link](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2664.13020).
