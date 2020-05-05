@@ -35,3 +35,6 @@ Thompson, A.H. and Knight, T.M., 2018. *Exotic plant species receive adequate po
 - Prepared figure (map) for:
 Bennett, J.M., Calosi, P., Clusella-Trullas, S., Martínez, B., Sunday, J., Algar, A.C., Araújo, M.B., Hawkins, B.A., Keith, S., Kühn, I. and Rahbek, C., 2018. *GlobTherm, a global database on thermal tolerances for aquatic and terrestrial organisms.* Scientific data, 5, p.180022.; [link](https://www.nature.com/articles/sdata201822)
 
+- Prepared figures for: 
+Vitt, P., Havens, K., Jolls, C.L. and Knight, T.M., 2020. *Temporal variation in the roles of exotic and native plant species in plant–pollinator networks*. Ecosphere, 11(2). [link](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.2981)
+
