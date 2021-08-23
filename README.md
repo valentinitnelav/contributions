@@ -15,7 +15,7 @@ Joanne M Bennett, Amibeth Thompson, Irina Goia, Reinart Feldmann, **Valentin Şt
 
 ## Acknowledged:
 
-- Contributed to developing the text processing and data visualization scripts for: 
+- Developed the text processing and data visualization scripts for: 
 Knight, T.M., Ashman, T.L., Bennett, J.M., Burns, J.H., Passonneau, S. and Steets, J.A., 2018. *Reflections on, and visions for, the changing field of pollination ecology.* Ecology letters.; [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13094). 
 **Maintaining the GitHub repository** [here](https://github.com/idiv-biodiversity/reflections_pollination_ecology).
 
