@@ -1,4 +1,4 @@
-# Contributions to publications
+# Contributions to scientific publications
 
 ## As author:
 
