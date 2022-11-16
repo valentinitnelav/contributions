@@ -1,3 +1,17 @@
+# Open Source contributions
+
+## FOSS (developer & maintainer)
+-	[geobuffer](https://github.com/valentinitnelav/geobuffer): geographic information system (GIS) API; R package for constructing geodesic buffers using metric radii;
+-	[plotbiomes](https://github.com/valentinitnelav/plotbiomes): data visualization API; R package for plotting Whittaker biomes with ggplot2; 
+-	[bootstrapnet](https://github.com/valentinitnelav/bootstrapnet): data analysis & visualization API; R package for bootstrapping indices of ecological networks;
+-	[bootdissim](https://github.com/valentinitnelav/bootdissim): data analysis & visualization API; R package for building turnover saturation curves via bootstrapping
+-	[img-with-box-from-excel](https://github.com/valentinitnelav/img-with-box-from-excel): Integrate Excel with Python for visualizing images with their corresponding bounding boxes for your AI project
+
+## Blog posts
+-	[R - using Random Forests, Support Vector Machines and Neural Networks for a pixel based supervised classification of Sentinel-2 multispectral images](https://valentinitnelav.github.io/satellite-image-classification-r/)
+-	Sharing various scripts and workflows on my personal blog at [See the data](https://seethedatablog.wordpress.com/)
+
+
 # Contributions to scientific publications
 
 ## As author:
